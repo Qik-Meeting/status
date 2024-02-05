@@ -6,6 +6,8 @@ user-agent: godpod
 sites:
   - name: Qik Meeting App
     url: https://qik.mt
+  - name: Qik Meeting API
+    url: https://api.qik.mt
 
 assignees:
   - godpod
