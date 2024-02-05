@@ -26,6 +26,7 @@ status-website:
       href: /
     - title: App
       href: https://qik.mt
+  footer: Copyright - Qik Meeting
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
