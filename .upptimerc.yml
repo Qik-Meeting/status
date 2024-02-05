@@ -8,6 +8,8 @@ sites:
     url: https://qik.mt
   - name: Qik Meeting API
     url: https://api.qik.mt
+  - name: Qik Meeting Website
+    url: https://qikmeeting.com
 
 assignees:
   - godpod
