@@ -16,5 +16,23 @@
     "timeMonth": 799,
     "timeYear": 799,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Qik Meeting API",
+    "url": "https://api.qik.mt",
+    "icon": "https://icons.duckduckgo.com/ip3/api.qik.mt.ico",
+    "slug": "qik-meeting-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
