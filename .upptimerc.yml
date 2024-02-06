@@ -22,7 +22,7 @@ status-website:
   logoUrl: https://qik.mt/app/img/logo/favicon.svg
   name: Qik Meeting
   introTitle: "**Qik Meeting Status**"
-  introMessage: Status & resolution updates for Qik Meeting App
+  introMessage: Status & incident resolution updates for Qik Meeting App
   navbar:
     - title: Status
       href: /
