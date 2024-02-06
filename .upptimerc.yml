@@ -8,6 +8,12 @@ sites:
     url: https://qik.mt
   - name: Qik Meeting API
     url: https://api.qik.mt
+  - name: Qik Meeting AI
+    url: https://ai.qik.mt
+  - name: Qik Meeting Socket
+    url: https://socket.qik.mt
+  - name: Qik Meeting Upload
+    url: https://upload.qik.mt
   - name: Qik Meeting Website
     url: https://qikmeeting.com
 
