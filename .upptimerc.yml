@@ -16,6 +16,9 @@ sites:
     url: https://upload.qik.mt
   - name: Qik Meeting Website
     url: https://qikmeeting.com
+  - name: Qik Meeting Website
+    url: https://qikmeeting.com
+    
 
 assignees:
   - godpod
