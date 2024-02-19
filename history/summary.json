@@ -58,19 +58,19 @@
     "url": "https://socket.qik.mt",
     "icon": "https://icons.duckduckgo.com/ip3/socket.qik.mt.ico",
     "slug": "qik-meeting-socket",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 855,
-    "timeDay": 906,
-    "timeWeek": 869,
-    "timeMonth": 855,
-    "timeYear": 855,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 851,
+    "timeDay": 879,
+    "timeWeek": 860,
+    "timeMonth": 851,
+    "timeYear": 851,
     "dailyMinutesDown": {
-      "2024-02-19": 16
+      "2024-02-19": 22
     }
   },
   {
