@@ -78,18 +78,20 @@
     "url": "https://upload.qik.mt",
     "icon": "https://icons.duckduckgo.com/ip3/upload.qik.mt.ico",
     "slug": "qik-meeting-upload",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 851,
-    "timeDay": 829,
-    "timeWeek": 873,
-    "timeMonth": 851,
-    "timeYear": 851,
-    "dailyMinutesDown": {}
+    "time": 849,
+    "timeDay": 820,
+    "timeWeek": 865,
+    "timeMonth": 849,
+    "timeYear": 849,
+    "dailyMinutesDown": {
+      "2024-02-23": 0
+    }
   },
   {
     "name": "Qik Meeting Website",
