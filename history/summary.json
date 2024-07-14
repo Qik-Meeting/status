@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 970,
-    "timeDay": 789,
-    "timeWeek": 954,
+    "time": 971,
+    "timeDay": 1031,
+    "timeWeek": 944,
     "timeMonth": 1094,
-    "timeYear": 970,
+    "timeYear": 971,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 910,
-    "timeDay": 954,
-    "timeWeek": 983,
-    "timeMonth": 898,
+    "timeDay": 858,
+    "timeWeek": 934,
+    "timeMonth": 899,
     "timeYear": 910,
     "dailyMinutesDown": {}
   },
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 907,
-    "timeDay": 834,
-    "timeWeek": 919,
-    "timeMonth": 873,
-    "timeYear": 907,
+    "time": 906,
+    "timeDay": 800,
+    "timeWeek": 914,
+    "timeMonth": 874,
+    "timeYear": 906,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 882,
-    "timeDay": 893,
-    "timeWeek": 956,
-    "timeMonth": 907,
-    "timeYear": 882,
+    "time": 881,
+    "timeDay": 832,
+    "timeWeek": 929,
+    "timeMonth": 905,
+    "timeYear": 881,
     "dailyMinutesDown": {
       "2024-02-19": 16
     }
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 909,
-    "timeDay": 1130,
-    "timeWeek": 909,
-    "timeMonth": 887,
-    "timeYear": 909,
+    "time": 911,
+    "timeDay": 1297,
+    "timeWeek": 974,
+    "timeMonth": 903,
+    "timeYear": 911,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1546,
-    "timeDay": 1676,
-    "timeWeek": 1530,
-    "timeMonth": 1688,
-    "timeYear": 1546,
+    "time": 1545,
+    "timeDay": 1274,
+    "timeWeek": 1524,
+    "timeMonth": 1673,
+    "timeYear": 1545,
     "dailyMinutesDown": {}
   }
 ]
