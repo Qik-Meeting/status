@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 967,
-    "timeDay": 969,
-    "timeWeek": 907,
-    "timeMonth": 964,
+    "timeDay": 886,
+    "timeWeek": 911,
+    "timeMonth": 962,
     "timeYear": 967,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 915,
-    "timeDay": 926,
-    "timeWeek": 877,
-    "timeMonth": 949,
-    "timeYear": 915,
+    "time": 914,
+    "timeDay": 706,
+    "timeWeek": 840,
+    "timeMonth": 941,
+    "timeYear": 914,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 905,
-    "timeDay": 1027,
-    "timeWeek": 888,
-    "timeMonth": 896,
+    "timeDay": 930,
+    "timeWeek": 907,
+    "timeMonth": 897,
     "timeYear": 905,
     "dailyMinutesDown": {}
   },
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 882,
-    "timeDay": 939,
-    "timeWeek": 883,
-    "timeMonth": 905,
-    "timeYear": 882,
+    "time": 881,
+    "timeDay": 762,
+    "timeWeek": 896,
+    "timeMonth": 900,
+    "timeYear": 881,
     "dailyMinutesDown": {
       "2024-02-19": 16
     }
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 908,
-    "timeDay": 855,
-    "timeWeek": 860,
-    "timeMonth": 902,
-    "timeYear": 908,
+    "time": 909,
+    "timeDay": 1069,
+    "timeWeek": 904,
+    "timeMonth": 907,
+    "timeYear": 909,
     "dailyMinutesDown": {}
   },
   {
@@ -97,18 +97,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/qikmeeting.com.ico",
     "slug": "qik-meeting-website",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "91.20%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.66%",
+    "uptimeDay": "39.88%",
+    "uptimeWeek": "91.41%",
+    "uptimeMonth": "98.02%",
+    "uptimeYear": "99.66%",
     "time": 1546,
-    "timeDay": 1584,
-    "timeWeek": 1595,
+    "timeDay": 1612,
+    "timeWeek": 1587,
     "timeMonth": 1546,
     "timeYear": 1546,
     "dailyMinutesDown": {
-      "2024-07-30": 127
+      "2024-07-31": 38,
+      "2024-07-30": 828
     }
   }
 ]
