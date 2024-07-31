@@ -96,19 +96,19 @@
     "url": "https://qikmeeting.com",
     "icon": "https://icons.duckduckgo.com/ip3/qikmeeting.com.ico",
     "slug": "qik-meeting-website",
-    "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "39.88%",
-    "uptimeWeek": "91.41%",
-    "uptimeMonth": "98.02%",
-    "uptimeYear": "99.66%",
+    "status": "up",
+    "uptime": "99.64%",
+    "uptimeDay": "37.70%",
+    "uptimeWeek": "90.91%",
+    "uptimeMonth": "97.91%",
+    "uptimeYear": "99.64%",
     "time": 1546,
-    "timeDay": 1612,
-    "timeWeek": 1587,
+    "timeDay": 1578,
+    "timeWeek": 1582,
     "timeMonth": 1546,
     "timeYear": 1546,
     "dailyMinutesDown": {
-      "2024-07-31": 38,
+      "2024-07-31": 88,
       "2024-07-30": 828
     }
   }
