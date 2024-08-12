@@ -4,19 +4,19 @@
     "url": "https://qik.mt",
     "icon": "https://icons.duckduckgo.com/ip3/qik.mt.ico",
     "slug": "qik-meeting-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 965,
-    "timeDay": 844,
-    "timeWeek": 921,
+    "timeDay": 872,
+    "timeWeek": 922,
     "timeMonth": 930,
     "timeYear": 965,
     "dailyMinutesDown": {
-      "2024-08-12": 0
+      "2024-08-12": 18
     }
   },
   {
