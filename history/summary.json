@@ -4,10 +4,10 @@
     "url": "https://qik.mt",
     "icon": "https://icons.duckduckgo.com/ip3/qik.mt.ico",
     "slug": "qik-meeting-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 965,
@@ -15,17 +15,19 @@
     "timeWeek": 932,
     "timeMonth": 933,
     "timeYear": 965,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-12": 1
+    }
   },
   {
     "name": "Qik Meeting API",
     "url": "https://api.qik.mt",
     "icon": "https://icons.duckduckgo.com/ip3/api.qik.mt.ico",
     "slug": "qik-meeting-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 913,
@@ -33,7 +35,9 @@
     "timeWeek": 924,
     "timeMonth": 925,
     "timeYear": 913,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-12": 1
+    }
   },
   {
     "name": "Qik Meeting AI",
@@ -58,10 +62,10 @@
     "url": "https://socket.qik.mt",
     "icon": "https://icons.duckduckgo.com/ip3/socket.qik.mt.ico",
     "slug": "qik-meeting-socket",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 881,
@@ -70,6 +74,7 @@
     "timeMonth": 881,
     "timeYear": 881,
     "dailyMinutesDown": {
+      "2024-08-12": 0,
       "2024-08-07": 21,
       "2024-02-19": 16
     }
