@@ -4,18 +4,18 @@ repo: status # The name of this repository
 user-agent: godpod
 
 sites:
-  - name: Qik Meeting App
+  - name: Qik Office App
     url: https://qik.mt
-  - name: Qik Meeting API
+  - name: Qik Office API
     url: https://api.qik.mt
-  - name: Qik Meeting AI
+  - name: Qik Office AI
     url: https://ai.qik.mt
-  - name: Qik Meeting Socket
+  - name: Qik Office Socket
     url: https://socket.qik.mt
-  - name: Qik Meeting Upload
+  - name: Qik Office Upload
     url: https://upload.qik.mt
-  - name: Qik Meeting Website
-    url: https://qikmeeting.com
+  - name: Qik Office Website
+    url: https://qikoffice.com
     
 
 assignees:
@@ -28,9 +28,9 @@ status-website:
   cname: status.qik.mt
   # baseUrl: /status
   logoUrl: https://qik.mt/app/img/logo/favicon.svg
-  name: Qik Meeting
+  name: Qik Office
   introTitle: "**Qik Meeting Status**"
-  introMessage: Status & incident resolution updates for Qik Meeting App
+  introMessage: Status & incident resolution updates for Qik Office
   navbar:
     - title: Status
       href: /
