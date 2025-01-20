@@ -1,1 +1,1 @@
-Qik Meeting Status
+Qik Office - Status
