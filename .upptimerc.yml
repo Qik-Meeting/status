@@ -29,7 +29,7 @@ status-website:
   # baseUrl: /status
   logoUrl: https://qik.mt/app/img/logo/favicon.svg
   name: Qik Office
-  introTitle: "**Qik Meeting Status**"
+  introTitle: "**Qik Office Status**"
   introMessage: Status & incident resolution updates for Qik Office
   navbar:
     - title: Status
@@ -38,7 +38,7 @@ status-website:
       href: https://qik.mt
       
 i18n:
-  footer: Copyright - Qik Meeting
+  footer: Copyright - Qik Office
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
