@@ -58,18 +58,20 @@
     "url": "https://socket.qik.mt",
     "icon": "https://icons.duckduckgo.com/ip3/socket.qik.mt.ico",
     "slug": "qik-office-socket",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 883,
-    "timeDay": 958,
-    "timeWeek": 902,
-    "timeMonth": 889,
-    "timeYear": 883,
-    "dailyMinutesDown": {}
+    "time": 882,
+    "timeDay": 853,
+    "timeWeek": 883,
+    "timeMonth": 885,
+    "timeYear": 882,
+    "dailyMinutesDown": {
+      "2025-05-31": 0
+    }
   },
   {
     "name": "Qik Office Upload",
