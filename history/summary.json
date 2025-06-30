@@ -4,19 +4,19 @@
     "url": "https://qik.mt",
     "icon": "https://icons.duckduckgo.com/ip3/qik.mt.ico",
     "slug": "qik-office-app",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 956,
-    "timeDay": 703,
-    "timeWeek": 895,
-    "timeMonth": 900,
-    "timeYear": 956,
+    "time": 955,
+    "timeDay": 821,
+    "timeWeek": 900,
+    "timeMonth": 901,
+    "timeYear": 955,
     "dailyMinutesDown": {
-      "2025-06-30": 3
+      "2025-06-30": 11
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://api.qik.mt",
     "icon": "https://icons.duckduckgo.com/ip3/api.qik.mt.ico",
     "slug": "qik-office-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 896,
-    "timeDay": 828,
-    "timeWeek": 853,
-    "timeMonth": 865,
+    "timeDay": 900,
+    "timeWeek": 868,
+    "timeMonth": 869,
     "timeYear": 896,
     "dailyMinutesDown": {
-      "2025-06-30": 2
+      "2025-06-30": 10
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://ai.qik.mt",
     "icon": "https://icons.duckduckgo.com/ip3/ai.qik.mt.ico",
     "slug": "qik-office-ai",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 844,
-    "timeDay": 799,
-    "timeWeek": 846,
-    "timeMonth": 834,
+    "timeDay": 837,
+    "timeWeek": 850,
+    "timeMonth": 835,
     "timeYear": 844,
     "dailyMinutesDown": {
-      "2025-06-30": 2
+      "2025-06-30": 10
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://socket.qik.mt",
     "icon": "https://icons.duckduckgo.com/ip3/socket.qik.mt.ico",
     "slug": "qik-office-socket",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 874,
-    "timeDay": 928,
-    "timeWeek": 832,
-    "timeMonth": 840,
+    "timeDay": 927,
+    "timeWeek": 844,
+    "timeMonth": 842,
     "timeYear": 874,
     "dailyMinutesDown": {
-      "2025-06-30": 1
+      "2025-06-30": 10
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://upload.qik.mt",
     "icon": "https://icons.duckduckgo.com/ip3/upload.qik.mt.ico",
     "slug": "qik-office-upload",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 820,
-    "timeDay": 702,
-    "timeWeek": 795,
-    "timeMonth": 802,
-    "timeYear": 820,
+    "time": 819,
+    "timeDay": 725,
+    "timeWeek": 789,
+    "timeMonth": 800,
+    "timeYear": 819,
     "dailyMinutesDown": {
-      "2025-06-30": 1
+      "2025-06-30": 9
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://qikoffice.com",
     "icon": "https://icons.duckduckgo.com/ip3/qikoffice.com.ico",
     "slug": "qik-office-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 360,
-    "timeDay": 285,
-    "timeWeek": 355,
-    "timeMonth": 363,
-    "timeYear": 360,
+    "time": 359,
+    "timeDay": 212,
+    "timeWeek": 328,
+    "timeMonth": 356,
+    "timeYear": 359,
     "dailyMinutesDown": {
-      "2025-06-30": 0
+      "2025-06-30": 9
     }
   }
 ]
