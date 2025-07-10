@@ -4,19 +4,19 @@
     "url": "https://qik.mt",
     "icon": "https://icons.duckduckgo.com/ip3/qik.mt.ico",
     "slug": "qik-office-app",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 971,
-    "timeDay": 753,
-    "timeWeek": 833,
-    "timeMonth": 993,
-    "timeYear": 971,
+    "time": 970,
+    "timeDay": 731,
+    "timeWeek": 817,
+    "timeMonth": 984,
+    "timeYear": 970,
     "dailyMinutesDown": {
-      "2025-07-10": 0
+      "2025-07-10": 6
     }
   },
   {
