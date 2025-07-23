@@ -94,19 +94,19 @@
     "url": "https://qikoffice.com",
     "icon": "https://icons.duckduckgo.com/ip3/qikoffice.com.ico",
     "slug": "qik-office-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 360,
-    "timeDay": 457,
-    "timeWeek": 463,
-    "timeMonth": 355,
-    "timeYear": 360,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "58.70%",
+    "uptimeWeek": "94.10%",
+    "uptimeMonth": "98.64%",
+    "uptimeYear": "99.78%",
+    "time": 359,
+    "timeDay": 407,
+    "timeWeek": 445,
+    "timeMonth": 354,
+    "timeYear": 359,
     "dailyMinutesDown": {
-      "2025-07-23": 0
+      "2025-07-23": 595
     }
   }
 ]
