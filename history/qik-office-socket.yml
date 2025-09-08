@@ -1,7 +1,7 @@
 url: https://socket.qik.mt
-status: up
-code: 200
-responseTime: 867
-lastUpdated: 2025-09-07T23:10:54.175Z
+status: down
+code: 502
+responseTime: 980
+lastUpdated: 2025-09-08T06:57:48.908Z
 startTime: 2025-01-20T04:26:10.355Z
 generator: Upptime <https://github.com/upptime/upptime>
