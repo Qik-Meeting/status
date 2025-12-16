@@ -10,11 +10,11 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 955,
-    "timeDay": 715,
-    "timeWeek": 886,
-    "timeMonth": 882,
-    "timeYear": 955,
+    "time": 954,
+    "timeDay": 757,
+    "timeWeek": 863,
+    "timeMonth": 877,
+    "timeYear": 954,
     "dailyMinutesDown": {
       "2025-12-13": 19
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 911,
-    "timeDay": 1245,
-    "timeWeek": 990,
-    "timeMonth": 935,
-    "timeYear": 911,
+    "time": 910,
+    "timeDay": 753,
+    "timeWeek": 952,
+    "timeMonth": 926,
+    "timeYear": 910,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 881,
-    "timeDay": 746,
-    "timeWeek": 909,
-    "timeMonth": 926,
+    "timeDay": 757,
+    "timeWeek": 850,
+    "timeMonth": 923,
     "timeYear": 881,
     "dailyMinutesDown": {}
   },
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 882,
-    "timeDay": 899,
-    "timeWeek": 894,
-    "timeMonth": 878,
-    "timeYear": 882,
+    "time": 896,
+    "timeDay": 5762,
+    "timeWeek": 1570,
+    "timeMonth": 1044,
+    "timeYear": 896,
     "dailyMinutesDown": {
       "2025-09-08": 18
     }
@@ -87,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 837,
-    "timeDay": 746,
-    "timeWeek": 795,
-    "timeMonth": 813,
+    "timeDay": 749,
+    "timeWeek": 796,
+    "timeMonth": 811,
     "timeYear": 837,
     "dailyMinutesDown": {}
   },
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 389,
-    "timeDay": 370,
-    "timeWeek": 512,
-    "timeMonth": 480,
-    "timeYear": 389,
+    "time": 390,
+    "timeDay": 591,
+    "timeWeek": 514,
+    "timeMonth": 487,
+    "timeYear": 390,
     "dailyMinutesDown": {
       "2025-08-28": 125,
       "2025-07-23": 595
