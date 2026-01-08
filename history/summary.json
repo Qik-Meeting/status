@@ -24,18 +24,20 @@
     "url": "https://api.qik.mt",
     "icon": "https://icons.duckduckgo.com/ip3/api.qik.mt.ico",
     "slug": "qik-office-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 909,
-    "timeDay": 1050,
-    "timeWeek": 918,
-    "timeMonth": 910,
-    "timeYear": 909,
-    "dailyMinutesDown": {}
+    "time": 910,
+    "timeDay": 1141,
+    "timeWeek": 957,
+    "timeMonth": 920,
+    "timeYear": 910,
+    "dailyMinutesDown": {
+      "2026-01-08": 0
+    }
   },
   {
     "name": "Qik Office AI",
