@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 948,
-    "timeDay": 894,
-    "timeWeek": 953,
-    "timeMonth": 924,
-    "timeYear": 952,
+    "timeDay": 907,
+    "timeWeek": 946,
+    "timeMonth": 927,
+    "timeYear": 953,
     "dailyMinutesDown": {
       "2025-12-13": 19
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 908,
-    "timeDay": 939,
-    "timeWeek": 922,
-    "timeMonth": 897,
+    "timeDay": 966,
+    "timeWeek": 906,
+    "timeMonth": 902,
     "timeYear": 911,
     "dailyMinutesDown": {
       "2026-01-08": 23
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.98%",
-    "time": 880,
-    "timeDay": 857,
-    "timeWeek": 914,
-    "timeMonth": 877,
-    "timeYear": 882,
+    "time": 881,
+    "timeDay": 1105,
+    "timeWeek": 918,
+    "timeMonth": 887,
+    "timeYear": 883,
     "dailyMinutesDown": {
       "2026-01-10": 87,
       "2026-01-09": 15
@@ -72,10 +72,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 895,
-    "timeDay": 1021,
-    "timeWeek": 947,
-    "timeMonth": 872,
-    "timeYear": 898,
+    "timeDay": 900,
+    "timeWeek": 965,
+    "timeMonth": 878,
+    "timeYear": 899,
     "dailyMinutesDown": {
       "2025-09-08": 18
     }
@@ -91,10 +91,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 839,
-    "timeDay": 747,
-    "timeWeek": 829,
-    "timeMonth": 864,
+    "time": 840,
+    "timeDay": 1032,
+    "timeWeek": 864,
+    "timeMonth": 875,
     "timeYear": 841,
     "dailyMinutesDown": {}
   },
@@ -109,10 +109,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.17%",
-    "time": 399,
-    "timeDay": 397,
-    "timeWeek": 496,
-    "timeMonth": 491,
+    "time": 400,
+    "timeDay": 479,
+    "timeWeek": 492,
+    "timeMonth": 498,
     "timeYear": 404,
     "dailyMinutesDown": {
       "2025-12-23": 1223,
