@@ -48,22 +48,23 @@
     "url": "https://ai.qik.mt",
     "icon": "https://icons.duckduckgo.com/ip3/ai.qik.mt.ico",
     "slug": "qik-office-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 872,
-    "timeDay": 664,
-    "timeWeek": 867,
-    "timeMonth": 835,
-    "timeYear": 871,
+    "timeDay": 681,
+    "timeWeek": 846,
+    "timeMonth": 831,
+    "timeYear": 870,
     "dailyMinutesDown": {
       "2026-01-10": 87,
       "2026-01-09": 15,
       "2026-03-23": 43,
-      "2026-07-19": 149
+      "2026-07-19": 149,
+      "2026-09-13": 0
     }
   },
   {
